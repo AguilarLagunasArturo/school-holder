@@ -1,65 +1,72 @@
 <!DOCTYPE html>
-<html>
-  <head>
-    <meta charset="utf-8">
-    <title>Webpages tree</title>
-    <style>
-table.greyGridTable {
-  border: 2px solid #FFFFFF;
-  width: 100%;
-  text-align: center;
-  border-collapse: collapse;
-}
-table.greyGridTable td, table.greyGridTable th {
-  padding: 3px 4px;
-}
-table.greyGridTable tbody td {
-  font-size: 13px;
-}
-table.greyGridTable thead {
-  background: #FFFFFF;
-  border-bottom: 4px solid #333333;
-}
-table.greyGridTable thead th {
-  font-size: 36px;
-  font-weight: bold;
-  color: #333333;
-  text-align: center;
-  border-left: 2px solid #333333;
-}
-table.greyGridTable thead th:first-child {
-  border-left: none;
-}
-
-table.greyGridTable tfoot {
-  font-size: 14px;
-  font-weight: bold;
-  color: #333333;
-  border-top: 4px solid #333333;
-}
-table.greyGridTable tfoot td {
-  font-size: 14px;
-}
-span {
-  font-size: 28px;
-  font-weight: bold;
-}
-    </style>
-  </head>
-  <body>
-    <table class="greyGridTable">
-    <thead>
-    <tr>
-    <th>Links</th>
-    </tr>
-    </thead>
-    <tbody>
-    <tr>
-    <td><br><a title="Simulador de proyectiles" href="projectile-simulator/index.html"><span>Simulador de proyectiles</span></a></td></tr>
-    <td><br><a title="Monitoreo de tuberías" href="pipe-flow/web_page_control/index.html"><span>Monitoreo de tuberías</span></a></td></tr>
-    <td><br><a title="Folleto mecanismos" href="folleto-mecanismos/index.html"><span>Folleto mecanismos</span></a></td></tr>
-    </tbody>
-    </tr>
-    </table>
-  </body>
+<html lang="es">
+<head>
+  <meta charset="utf-8" />
+  <link rel="shortcut icon" href="https://res.cloudinary.com/phonerefer/image/upload/v1575096088/ve0o2n85nfvgdatgqer2.jpg" />
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+  <meta name="theme-color" content="#343a40" />
+  <meta name="description" content="Linktree | school-holder" />  
+  <link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.8.1/css/all.css" integrity="sha384-50oBUHEmvpQ+1lW4y57PTFmhCaXp0ML5d60M1M7uH2+nqUivzIebhndOJK28anvf" crossorigin="anonymous">
+  <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/css/bootstrap.min.css" integrity="sha384-ggOyR0iXCbMQv3Xipma34MD+dH/1fQ784/j6cY/iJTQUOhcWr7x9JvoRxT2MZw1T" crossorigin="anonymous">
+     <title>Linktree - school-holder</title>
+     <style>
+       body{
+         background-color: #faf8ef;
+       }
+       h5{
+             color: #343a40;
+       }
+       .name{
+           color: #343a40;
+       }
+       .love{
+           color: #343a40 !important;
+       }
+       /*----------------- Mail-------------------- */
+       #email{
+           text-decoration: none;
+           float: right;
+           color:#343a40;
+       }
+       .footer{
+           margin-top: 5% !important;
+           margin-bottom: 10px;
+       }
+       @media (max-width: 479px) {
+            .footer{
+            margin-top: 35% !important;
+            }
+       }
+     </style>
+</head>
+<body>
+<div class="container">
+  <div class="media mt-5">
+    <img src="https://res.cloudinary.com/phonerefer/image/upload/v1575096088/ve0o2n85nfvgdatgqer2.jpg" class="m-3" alt="image" width="75px" height="75px">
+    <div class="media-body m-2">
+      <h5 class="align-items-center mt-2">Linktree</h5>
+      <p>Mis diversos sitios web estáticos</p>
+    </div>
+  </div>
+<div class="mt-4">
+  <a href="projectile-simulator/index.html" class="btn btn-outline-dark btn-block" role="button" target="_blank"><i class="fa fa-code">&nbsp;</i>Simulador de proyectiles</a>
+  <br>
+  <a href="pipe-flow/web_page_control/index.html" class="btn btn-outline-dark btn-block" role="button" target="_blank"><i class="fa fa-code">&nbsp;</i>Monitoreo de tuberías</a>
+  <br>
+  <a href="folleto-mecanismos/index.html" class="btn btn-outline-dark btn-block" role="button" target="_blank"><i class="fa fa-code">&nbsp;</i>Folleto mecanismos</a>
+  <br>
+</div>
+        <!--------------------Footer---------------------------->
+  <div class="footer mt-5">
+    <hr/>
+    <h6></h6>
+    <h6>
+      
+      <a href="https://github.com/AguilarLagunasArturo/" class="name" target="_blank">Arturo Aguilar Lagunas</a>
+      <a id="email" href="mailto:aguilar.lagunas.arturo@gmail.com"> <i class="fa fa-envelope"> </i> </a>
+    </h6>
+  </div>
+</div>
+</body>
+  
 </html>
