@@ -1,0 +1,12 @@
+#! /usr/bin/env bash
+
+# Author:		Arturo Aguilar Lagunas
+# Date:			Tue 21 Sep 2021 01:20:24 PM CDT
+# Description:	Clean-up files in folder obj or bin
+
+find . | grep -iP "/(obj|bin)$" | while read f
+do
+    echo "\"$f\""
+    rm -r "$f"
+    # rm "$f"
+done
