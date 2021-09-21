@@ -2,11 +2,19 @@
 
 # Author:		Arturo Aguilar Lagunas
 # Date:			Tue 21 Sep 2021 01:20:24 PM CDT
-# Description:	Clean-up files in folder obj or bin
+# Description:	Clean-up by removing files in folder "./*/obj" or "./*/bin" or just ".exe" files
 
-find . | grep -iP "/(obj|bin)$" | while read f
-do
-    echo "\"$f\""
-    rm -r "$f"
-    # rm "$f"
-done
+# Remove folders
+# find . | grep -iP "/(obj|bin)$" | while read f
+# do
+#     echo "\"$f\""
+#     # rm -r "$f"
+# done
+
+# Remove .exe files
+# find . | grep -iP "\.exe$" | while read f
+# do
+#     echo "\"$f\""
+#     # rm "$f"
+# done
+
