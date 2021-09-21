@@ -1,0 +1,72 @@
+﻿<Window x:Class="PagoServicios.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:PagoServicios"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="424.448" Width="497.634" Loaded="Window_Loaded">
+    <Grid>
+        <TabControl HorizontalAlignment="Left" Height="361" Margin="10,10,0,0" VerticalAlignment="Top" Width="458">
+            <TabItem Header="Clientes">
+                <Grid Background="#FFE5E5E5">
+                    <Grid.ColumnDefinitions>
+                        <ColumnDefinition/>
+                    </Grid.ColumnDefinitions>
+                    <Label Content="Paquete" HorizontalAlignment="Left" Margin="32,36,0,0" VerticalAlignment="Top"/>
+                    <Label Content="Nombre" HorizontalAlignment="Left" Margin="31,100,0,0" VerticalAlignment="Top"/>
+                    <Label Content="Direccion" HorizontalAlignment="Left" Margin="25,182,0,0" VerticalAlignment="Top"/>
+                    <ComboBox x:Name="cmbPaquetes" HorizontalAlignment="Left" Margin="144,40,0,0" VerticalAlignment="Top" Width="260"/>
+                    <TextBox x:Name="txtNombre" HorizontalAlignment="Left" Height="23" Margin="144,103,0,0" TextWrapping="Wrap" Text="" VerticalAlignment="Top" Width="260"/>
+                    <TextBox x:Name="txtDireccion" HorizontalAlignment="Left" Height="23" Margin="144,182,0,0" TextWrapping="Wrap" Text="" VerticalAlignment="Top" Width="261"/>
+                    <Button x:Name="btnAceptar" Content="Aceptar" HorizontalAlignment="Left" Margin="31,290,0,0" VerticalAlignment="Top" Width="75" RenderTransformOrigin="0.511,-2.357" Click="btnAceptar_Click"/>
+                    <Button x:Name="btnCancelar" Content="Cancelar" HorizontalAlignment="Left" Margin="329,290,0,0" VerticalAlignment="Top" Width="75" RenderTransformOrigin="-0.011,0.428" Click="btnCancelar_Click"/>
+                </Grid>
+            </TabItem>
+            <TabItem Header="Pago">
+                <Grid Background="#FFE5E5E5">
+                    <Grid.ColumnDefinitions>
+                        <ColumnDefinition/>
+                    </Grid.ColumnDefinitions>
+                    <Label Content="Nombre" HorizontalAlignment="Left" Margin="31,32,0,0" VerticalAlignment="Top"/>
+                    <TextBox x:Name="txtBuscarNombre" HorizontalAlignment="Left" Height="23" Margin="144,35,0,0" TextWrapping="Wrap" Text="" VerticalAlignment="Top" Width="260" KeyDown="txtBuscarNombre_KeyDown"/>
+                    <DataGrid x:Name="DGClientes" HorizontalAlignment="Left" Height="121" Margin="31,77,0,0" VerticalAlignment="Top" Width="373" ItemsSource="{Binding}" AutoGenerateColumns="False">
+                        <DataGrid.Columns>
+                            <DataGridTextColumn Binding="{Binding Nombre}" Header="Nombre" Width="93"/>
+                            <DataGridTextColumn Binding="{Binding Direccion}" Header="Direccion" Width="93"/>
+                            <DataGridTextColumn Binding="{Binding Paquete.Descripcion}" Header="Paquete" Width="93"/>
+                            <DataGridTextColumn Binding="{Binding Paquete.Precio}"  Header="Precio" Width="93"/>
+                        </DataGrid.Columns>
+                    </DataGrid>
+                    <Expander Header="Expander" HorizontalAlignment="Left" Height="120" Margin="31,203,0,0" VerticalAlignment="Top" Width="373" IsExpanded="False">
+                        <Grid HorizontalAlignment="Left" Height="106" Margin="10,0,0,0" Width="353">
+                            <Label Content="Cliente" HorizontalAlignment="Left" Margin="27,10,0,0" VerticalAlignment="Top"/>
+                            <TextBox x:Name="txtCliente" HorizontalAlignment="Left" Height="23" Margin="115,14,0,0" TextWrapping="Wrap" Text="" VerticalAlignment="Top" Width="209" IsEnabled="False"/>
+                            <Label Content="Paquete" HorizontalAlignment="Left" Margin="27,37,0,0" VerticalAlignment="Top"/>
+                            <TextBox x:Name="txtPaquete" HorizontalAlignment="Left" Height="23" Margin="115,41,0,0" TextWrapping="Wrap" Text="" VerticalAlignment="Top" Width="209" IsEnabled="False"/>
+                            <Label Content="Total" HorizontalAlignment="Left" Margin="27,65,0,0" VerticalAlignment="Top"/>
+                            <TextBox x:Name="txtTotal" HorizontalAlignment="Left" Height="23" Margin="115,69,0,0" TextWrapping="Wrap" Text="" VerticalAlignment="Top" Width="209" IsEnabled="False"/>
+                        </Grid>
+                    </Expander>
+                </Grid>
+            </TabItem>
+            <TabItem Header="Paquetes">
+                <Grid Background="#FFE5E5E5">
+                    <Label Content="Nombre" HorizontalAlignment="Left" Margin="43,232,0,0" VerticalAlignment="Top"/>
+                    <TextBox x:Name="txtNombrePaquete" HorizontalAlignment="Left" Height="23" Margin="156,235,0,0" TextWrapping="Wrap" Text="" VerticalAlignment="Top" Width="260"/>
+                    <Label Content="Pago" HorizontalAlignment="Left" Margin="43,260,0,0" VerticalAlignment="Top"/>
+                    <TextBox x:Name="txtPago" HorizontalAlignment="Left" Height="23" Margin="156,263,0,0" TextWrapping="Wrap" Text="" VerticalAlignment="Top" Width="260"/>
+                    <DataGrid x:Name="dGPaquetes" HorizontalAlignment="Center" Height="213" Margin="31,10,21,0" VerticalAlignment="Top" Width="400" ItemsSource="{Binding}">
+                        <DataGrid.Columns>
+                            <DataGridTextColumn Binding="{Binding Paquete.Descripcion}" Header="Descripcion" Width="300"/>
+                            <DataGridTextColumn Binding="{Binding Paquete.Precio}" Header="Precio" Width="100"/>
+                        </DataGrid.Columns>
+                    </DataGrid>
+                    <Button x:Name="btnAgregar" Content="Agregar" HorizontalAlignment="Left" Margin="43,303,0,0" VerticalAlignment="Top" Width="373"/>
+
+                </Grid>
+            </TabItem>
+
+        </TabControl>
+    </Grid>
+</Window>

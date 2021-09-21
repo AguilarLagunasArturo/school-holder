@@ -1,0 +1,17 @@
+C:\Users\Arturo\Desktop\U5 PROBLEMAS\P55 - PIZZERIA\P55 - PIZZERIA\bin\Debug\P55 - PIZZERIA.exe.config
+C:\Users\Arturo\Desktop\U5 PROBLEMAS\P55 - PIZZERIA\P55 - PIZZERIA\bin\Debug\P55 - PIZZERIA.exe
+C:\Users\Arturo\Desktop\U5 PROBLEMAS\P55 - PIZZERIA\P55 - PIZZERIA\bin\Debug\P55 - PIZZERIA.pdb
+C:\Users\Arturo\Desktop\U5 PROBLEMAS\P55 - PIZZERIA\P55 - PIZZERIA\obj\Debug\P55 - PIZZERIA.csprojAssemblyReference.cache
+C:\Users\Arturo\Desktop\U5 PROBLEMAS\P55 - PIZZERIA\P55 - PIZZERIA\obj\Debug\MainWindow.g.cs
+C:\Users\Arturo\Desktop\U5 PROBLEMAS\P55 - PIZZERIA\P55 - PIZZERIA\obj\Debug\App.g.cs
+C:\Users\Arturo\Desktop\U5 PROBLEMAS\P55 - PIZZERIA\P55 - PIZZERIA\obj\Debug\P55 - PIZZERIA_MarkupCompile.cache
+C:\Users\Arturo\Desktop\U5 PROBLEMAS\P55 - PIZZERIA\P55 - PIZZERIA\obj\Debug\P55 - PIZZERIA_MarkupCompile.lref
+C:\Users\Arturo\Desktop\U5 PROBLEMAS\P55 - PIZZERIA\P55 - PIZZERIA\obj\Debug\MainWindow.baml
+C:\Users\Arturo\Desktop\U5 PROBLEMAS\P55 - PIZZERIA\P55 - PIZZERIA\obj\Debug\P55 - PIZZERIA.g.resources
+C:\Users\Arturo\Desktop\U5 PROBLEMAS\P55 - PIZZERIA\P55 - PIZZERIA\obj\Debug\P55___PIZZERIA.Properties.Resources.resources
+C:\Users\Arturo\Desktop\U5 PROBLEMAS\P55 - PIZZERIA\P55 - PIZZERIA\obj\Debug\P55 - PIZZERIA.csproj.GenerateResource.cache
+C:\Users\Arturo\Desktop\U5 PROBLEMAS\P55 - PIZZERIA\P55 - PIZZERIA\obj\Debug\P55 - PIZZERIA.csproj.CoreCompileInputs.cache
+C:\Users\Arturo\Desktop\U5 PROBLEMAS\P55 - PIZZERIA\P55 - PIZZERIA\obj\Debug\P55 - PIZZERIA.exe
+C:\Users\Arturo\Desktop\U5 PROBLEMAS\P55 - PIZZERIA\P55 - PIZZERIA\obj\Debug\P55 - PIZZERIA.pdb
+C:\Users\Arturo\Desktop\U5 PROBLEMAS\P55 - PIZZERIA\P55 - PIZZERIA\obj\Debug\VentanaAdministracion.g.cs
+C:\Users\Arturo\Desktop\U5 PROBLEMAS\P55 - PIZZERIA\P55 - PIZZERIA\obj\Debug\VentanaAdministracion.baml

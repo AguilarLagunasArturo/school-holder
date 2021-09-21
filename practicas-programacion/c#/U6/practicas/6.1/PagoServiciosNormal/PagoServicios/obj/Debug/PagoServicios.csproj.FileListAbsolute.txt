@@ -1,0 +1,15 @@
+C:\Users\Arturo\Documents\Escuela\7mo\progra\U6\practicas\6.1\PagoServicios\PagoServicios\bin\Debug\PagoServicios.exe.config
+C:\Users\Arturo\Documents\Escuela\7mo\progra\U6\practicas\6.1\PagoServicios\PagoServicios\bin\Debug\PagoServicios.exe
+C:\Users\Arturo\Documents\Escuela\7mo\progra\U6\practicas\6.1\PagoServicios\PagoServicios\bin\Debug\PagoServicios.pdb
+C:\Users\Arturo\Documents\Escuela\7mo\progra\U6\practicas\6.1\PagoServicios\PagoServicios\obj\Debug\PagoServicios.csprojAssemblyReference.cache
+C:\Users\Arturo\Documents\Escuela\7mo\progra\U6\practicas\6.1\PagoServicios\PagoServicios\obj\Debug\MainWindow.g.cs
+C:\Users\Arturo\Documents\Escuela\7mo\progra\U6\practicas\6.1\PagoServicios\PagoServicios\obj\Debug\App.g.cs
+C:\Users\Arturo\Documents\Escuela\7mo\progra\U6\practicas\6.1\PagoServicios\PagoServicios\obj\Debug\PagoServicios_MarkupCompile.cache
+C:\Users\Arturo\Documents\Escuela\7mo\progra\U6\practicas\6.1\PagoServicios\PagoServicios\obj\Debug\PagoServicios_MarkupCompile.lref
+C:\Users\Arturo\Documents\Escuela\7mo\progra\U6\practicas\6.1\PagoServicios\PagoServicios\obj\Debug\MainWindow.baml
+C:\Users\Arturo\Documents\Escuela\7mo\progra\U6\practicas\6.1\PagoServicios\PagoServicios\obj\Debug\PagoServicios.g.resources
+C:\Users\Arturo\Documents\Escuela\7mo\progra\U6\practicas\6.1\PagoServicios\PagoServicios\obj\Debug\PagoServicios.Properties.Resources.resources
+C:\Users\Arturo\Documents\Escuela\7mo\progra\U6\practicas\6.1\PagoServicios\PagoServicios\obj\Debug\PagoServicios.csproj.GenerateResource.cache
+C:\Users\Arturo\Documents\Escuela\7mo\progra\U6\practicas\6.1\PagoServicios\PagoServicios\obj\Debug\PagoServicios.csproj.CoreCompileInputs.cache
+C:\Users\Arturo\Documents\Escuela\7mo\progra\U6\practicas\6.1\PagoServicios\PagoServicios\obj\Debug\PagoServicios.exe
+C:\Users\Arturo\Documents\Escuela\7mo\progra\U6\practicas\6.1\PagoServicios\PagoServicios\obj\Debug\PagoServicios.pdb

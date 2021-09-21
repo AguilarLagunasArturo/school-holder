@@ -1,0 +1,13 @@
+C:\Users\Arturo\Documents\Escuela\7mo\progra\U3\Practicas\3.2\AplicacionCuentas\AplicacionCuentas\obj\Debug\netcoreapp3.1\AplicacionCuentas.csprojAssemblyReference.cache
+C:\Users\Arturo\Documents\Escuela\7mo\progra\U3\Practicas\3.2\AplicacionCuentas\AplicacionCuentas\obj\Debug\netcoreapp3.1\AplicacionCuentas.AssemblyInfoInputs.cache
+C:\Users\Arturo\Documents\Escuela\7mo\progra\U3\Practicas\3.2\AplicacionCuentas\AplicacionCuentas\obj\Debug\netcoreapp3.1\AplicacionCuentas.AssemblyInfo.cs
+C:\Users\Arturo\Documents\Escuela\7mo\progra\U3\Practicas\3.2\AplicacionCuentas\AplicacionCuentas\obj\Debug\netcoreapp3.1\AplicacionCuentas.csproj.CoreCompileInputs.cache
+C:\Users\Arturo\Documents\Escuela\7mo\progra\U3\Practicas\3.2\AplicacionCuentas\AplicacionCuentas\bin\Debug\netcoreapp3.1\AplicacionCuentas.exe
+C:\Users\Arturo\Documents\Escuela\7mo\progra\U3\Practicas\3.2\AplicacionCuentas\AplicacionCuentas\bin\Debug\netcoreapp3.1\AplicacionCuentas.deps.json
+C:\Users\Arturo\Documents\Escuela\7mo\progra\U3\Practicas\3.2\AplicacionCuentas\AplicacionCuentas\bin\Debug\netcoreapp3.1\AplicacionCuentas.runtimeconfig.json
+C:\Users\Arturo\Documents\Escuela\7mo\progra\U3\Practicas\3.2\AplicacionCuentas\AplicacionCuentas\bin\Debug\netcoreapp3.1\AplicacionCuentas.runtimeconfig.dev.json
+C:\Users\Arturo\Documents\Escuela\7mo\progra\U3\Practicas\3.2\AplicacionCuentas\AplicacionCuentas\bin\Debug\netcoreapp3.1\AplicacionCuentas.dll
+C:\Users\Arturo\Documents\Escuela\7mo\progra\U3\Practicas\3.2\AplicacionCuentas\AplicacionCuentas\bin\Debug\netcoreapp3.1\AplicacionCuentas.pdb
+C:\Users\Arturo\Documents\Escuela\7mo\progra\U3\Practicas\3.2\AplicacionCuentas\AplicacionCuentas\obj\Debug\netcoreapp3.1\AplicacionCuentas.dll
+C:\Users\Arturo\Documents\Escuela\7mo\progra\U3\Practicas\3.2\AplicacionCuentas\AplicacionCuentas\obj\Debug\netcoreapp3.1\AplicacionCuentas.pdb
+C:\Users\Arturo\Documents\Escuela\7mo\progra\U3\Practicas\3.2\AplicacionCuentas\AplicacionCuentas\obj\Debug\netcoreapp3.1\AplicacionCuentas.genruntimeconfig.cache

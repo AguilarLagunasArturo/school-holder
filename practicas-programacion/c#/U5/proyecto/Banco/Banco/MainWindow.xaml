@@ -1,0 +1,44 @@
+﻿<Window x:Class="Banco.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:Banco"
+        mc:Ignorable="d"
+        Title="TEAM 07 BANK" Height="370.368" Width="659.008" Icon="src/itver.png">
+    <Grid>
+        <GroupBox Header="Datos" HorizontalAlignment="Left" Height="268" Margin="34,10,0,0" VerticalAlignment="Top" Width="579" RenderTransformOrigin="0.486,0.562">
+            <StackPanel x:Name="SP_Principal" HorizontalAlignment="Left" Height="258" Margin="10,0,-2,-13" VerticalAlignment="Top" Width="559">
+                <GroupBox Header="Modo de usuario" Height="100" Margin="0,0,10,0">
+                    <StackPanel Height="72" Margin="10,0,18,0" VerticalAlignment="Top" Width="Auto" Orientation="Horizontal">
+                        <RadioButton x:Name="radioCliente" IsChecked="True" VerticalContentAlignment="Center" Checked="radioCliente_Checked">
+                            <StackPanel Height="62" Width="203" Orientation="Horizontal">
+                                <Image Width="100" Source="src/user.png" />
+                                <Label Content="Cliente" HorizontalAlignment="Center" VerticalAlignment="Center"/>
+                            </StackPanel>
+                        </RadioButton>
+                        <RadioButton x:Name="radioAdmin" Margin="0,0,0,-0.4" VerticalContentAlignment="Center" Checked="radioAdmin_Checked">
+                            <StackPanel Height="62" Width="243" Orientation="Horizontal">
+                                <Image Width="100" Source="src/admin.png" />
+                                <Label Content="Admin" HorizontalAlignment="Center" VerticalAlignment="Center"/>
+                            </StackPanel>
+                        </RadioButton>
+                    </StackPanel>
+                </GroupBox>
+                <GroupBox Header="Credenciales" Height="134" Margin="0,0,10,0">
+                    <StackPanel HorizontalAlignment="Left" Height="127" Margin="0,-10,-2,-6" VerticalAlignment="Top" Width="539">
+                        <StackPanel Height="64" Orientation="Horizontal" Margin="0,0,10,0">
+                            <Label x:Name="labelUsuario" Content="No. Cuenta:" HorizontalAlignment="Center" VerticalAlignment="Center" Margin="0,6,0,5.8" Width="165"/>
+                            <TextBox x:Name="textNoCuenta" TextWrapping="Wrap" Width="340" Margin="0,20,0,19" HorizontalAlignment="Center" Height="25"/>
+                        </StackPanel>
+                        <StackPanel Height="60" Orientation="Horizontal" Margin="0,0,10,0">
+                            <Label x:Name="labelPass" Content="NIP:" HorizontalAlignment="Center" VerticalAlignment="Center" Height="47" Margin="0,0,0,5" Width="165"/>
+                            <PasswordBox x:Name="pass" Width="340" Margin="0,10,0,24" HorizontalAlignment="Center" Height="25"/>
+                        </StackPanel>
+                    </StackPanel>
+                </GroupBox>
+            </StackPanel>
+        </GroupBox>
+        <Button x:Name="buttonIngresar" Content="Ingresar" HorizontalAlignment="Left" Margin="34,283,0,0" VerticalAlignment="Top" Width="579" Height="25" Click="buttonIngresar_Click"/>
+    </Grid>
+</Window>

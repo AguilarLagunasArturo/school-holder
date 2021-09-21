@@ -1,0 +1,28 @@
+﻿<Window x:Class="P51___ADO.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:P51___ADO"
+        mc:Ignorable="d"
+        Title="ADO" Height="391.798" Width="572.87" Icon="imagenes/grupo-ado.png">
+    <Grid>
+        <GroupBox Header="Viaje" HorizontalAlignment="Left" Height="73" Margin="10,10,0,0" VerticalAlignment="Top" Width="331" FontSize="20">
+            <StackPanel HorizontalAlignment="Left" Height="40" Margin="10,10,0,0" VerticalAlignment="Top" Width="293" Orientation="Horizontal">
+                <RadioButton x:Name="rbSencillo" Content="Sencillo" Width="131" IsChecked="True"/>
+                <RadioButton x:Name="rbRedondo" Content="Redondo" Width="144"/>
+            </StackPanel>
+        </GroupBox>
+        <Calendar HorizontalAlignment="Left" Margin="346,24,0,0" VerticalAlignment="Top" FontSize="20"/>
+        <Label Content="Destino" HorizontalAlignment="Left" Margin="26,124,0,0" VerticalAlignment="Top" FontSize="20"/>
+        <Label Content="Menor" HorizontalAlignment="Left" Margin="311,215,0,0" VerticalAlignment="Top" FontSize="20"/>
+        <Label Content="Adulto" HorizontalAlignment="Left" Margin="26,215,0,0" VerticalAlignment="Top" FontSize="20"/>
+        <ComboBox x:Name="comboDestino" HorizontalAlignment="Left" Margin="169,128,0,0" VerticalAlignment="Top" Width="120" FontSize="20"/>
+        <ComboBox x:Name="comboAdulto" HorizontalAlignment="Left" Margin="122,219,0,0" VerticalAlignment="Top" Width="120" FontSize="20"/>
+        <ComboBox x:Name="comboMenor" HorizontalAlignment="Left" Margin="405,219,0,0" VerticalAlignment="Top" Width="120" FontSize="20"/>
+        <Label Content="Total $" HorizontalAlignment="Left" Margin="311,301,0,0" VerticalAlignment="Top" FontSize="20"/>
+        <TextBox x:Name="txtTotal" HorizontalAlignment="Left" Height="30" Margin="405,305,0,0" TextWrapping="Wrap" Text="" VerticalAlignment="Top" Width="120" FontSize="20" IsEnabled="False"/>
+        <Button x:Name="buttonAceptar" Content="Aceptar" HorizontalAlignment="Left" Margin="29,304,0,0" VerticalAlignment="Top" Width="260" FontSize="20" Click="buttonAceptar_Click"/>
+
+    </Grid>
+</Window>

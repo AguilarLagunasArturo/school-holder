@@ -1,0 +1,38 @@
+C:\Users\Arturo\Documents\Escuela\7mo\progra\U5\proyecto\Banco\Banco\bin\Debug\Banco.exe.config
+C:\Users\Arturo\Documents\Escuela\7mo\progra\U5\proyecto\Banco\Banco\bin\Debug\Banco.exe
+C:\Users\Arturo\Documents\Escuela\7mo\progra\U5\proyecto\Banco\Banco\bin\Debug\Banco.pdb
+C:\Users\Arturo\Documents\Escuela\7mo\progra\U5\proyecto\Banco\Banco\obj\Debug\Banco.csprojAssemblyReference.cache
+C:\Users\Arturo\Documents\Escuela\7mo\progra\U5\proyecto\Banco\Banco\obj\Debug\MainWindow.g.cs
+C:\Users\Arturo\Documents\Escuela\7mo\progra\U5\proyecto\Banco\Banco\obj\Debug\App.g.cs
+C:\Users\Arturo\Documents\Escuela\7mo\progra\U5\proyecto\Banco\Banco\obj\Debug\Banco_MarkupCompile.cache
+C:\Users\Arturo\Documents\Escuela\7mo\progra\U5\proyecto\Banco\Banco\obj\Debug\Banco_MarkupCompile.lref
+C:\Users\Arturo\Documents\Escuela\7mo\progra\U5\proyecto\Banco\Banco\obj\Debug\MainWindow.baml
+C:\Users\Arturo\Documents\Escuela\7mo\progra\U5\proyecto\Banco\Banco\obj\Debug\Banco.g.resources
+C:\Users\Arturo\Documents\Escuela\7mo\progra\U5\proyecto\Banco\Banco\obj\Debug\Banco.Properties.Resources.resources
+C:\Users\Arturo\Documents\Escuela\7mo\progra\U5\proyecto\Banco\Banco\obj\Debug\Banco.csproj.GenerateResource.cache
+C:\Users\Arturo\Documents\Escuela\7mo\progra\U5\proyecto\Banco\Banco\obj\Debug\Banco.csproj.CoreCompileInputs.cache
+C:\Users\Arturo\Documents\Escuela\7mo\progra\U5\proyecto\Banco\Banco\obj\Debug\Banco.exe
+C:\Users\Arturo\Documents\Escuela\7mo\progra\U5\proyecto\Banco\Banco\obj\Debug\Banco.pdb
+C:\Users\Arturo\Documents\Escuela\7mo\progra\U5\proyecto\Banco\Banco\obj\Debug\WAdmin.g.cs
+C:\Users\Arturo\Documents\Escuela\7mo\progra\U5\proyecto\Banco\Banco\obj\Debug\WUsuario.g.cs
+C:\Users\Arturo\Documents\Escuela\7mo\progra\U5\proyecto\Banco\Banco\obj\Debug\WAdmin.baml
+C:\Users\Arturo\Documents\Escuela\7mo\progra\U5\proyecto\Banco\Banco\obj\Debug\WUsuario.baml
+C:\Users\DELL\Desktop\7mo semestre\Programación\A entregar\Proyecto U5\Banco (1)\Banco\Banco\obj\Debug\Banco.csprojAssemblyReference.cache
+C:\Users\DELL\Desktop\7mo semestre\Programación\A entregar\Proyecto U5\Banco (1)\Banco\Banco\obj\Debug\MainWindow.g.cs
+C:\Users\DELL\Desktop\7mo semestre\Programación\A entregar\Proyecto U5\Banco (1)\Banco\Banco\obj\Debug\WAdmin.g.cs
+C:\Users\DELL\Desktop\7mo semestre\Programación\A entregar\Proyecto U5\Banco (1)\Banco\Banco\obj\Debug\WUsuario.g.cs
+C:\Users\DELL\Desktop\7mo semestre\Programación\A entregar\Proyecto U5\Banco (1)\Banco\Banco\obj\Debug\App.g.cs
+C:\Users\DELL\Desktop\7mo semestre\Programación\A entregar\Proyecto U5\Banco (1)\Banco\Banco\obj\Debug\Banco_MarkupCompile.cache
+C:\Users\DELL\Desktop\7mo semestre\Programación\A entregar\Proyecto U5\Banco (1)\Banco\Banco\obj\Debug\Banco_MarkupCompile.lref
+C:\Users\DELL\Desktop\7mo semestre\Programación\A entregar\Proyecto U5\Banco (1)\Banco\Banco\obj\Debug\Banco.exe
+C:\Users\DELL\Desktop\7mo semestre\Programación\A entregar\Proyecto U5\Banco (1)\Banco\Banco\obj\Debug\Banco.pdb
+C:\Users\DELL\Desktop\7mo semestre\Programación\A entregar\Proyecto U5\Banco (1)\Banco\Banco\bin\Debug\Banco.exe.config
+C:\Users\DELL\Desktop\7mo semestre\Programación\A entregar\Proyecto U5\Banco (1)\Banco\Banco\bin\Debug\Banco.exe
+C:\Users\DELL\Desktop\7mo semestre\Programación\A entregar\Proyecto U5\Banco (1)\Banco\Banco\bin\Debug\Banco.pdb
+C:\Users\DELL\Desktop\7mo semestre\Programación\A entregar\Proyecto U5\Banco (1)\Banco\Banco\obj\Debug\MainWindow.baml
+C:\Users\DELL\Desktop\7mo semestre\Programación\A entregar\Proyecto U5\Banco (1)\Banco\Banco\obj\Debug\WAdmin.baml
+C:\Users\DELL\Desktop\7mo semestre\Programación\A entregar\Proyecto U5\Banco (1)\Banco\Banco\obj\Debug\WUsuario.baml
+C:\Users\DELL\Desktop\7mo semestre\Programación\A entregar\Proyecto U5\Banco (1)\Banco\Banco\obj\Debug\Banco.g.resources
+C:\Users\DELL\Desktop\7mo semestre\Programación\A entregar\Proyecto U5\Banco (1)\Banco\Banco\obj\Debug\Banco.Properties.Resources.resources
+C:\Users\DELL\Desktop\7mo semestre\Programación\A entregar\Proyecto U5\Banco (1)\Banco\Banco\obj\Debug\Banco.csproj.GenerateResource.cache
+C:\Users\DELL\Desktop\7mo semestre\Programación\A entregar\Proyecto U5\Banco (1)\Banco\Banco\obj\Debug\Banco.csproj.CoreCompileInputs.cache

@@ -1,0 +1,15 @@
+﻿<Window x:Class="Ventanas.wConsulta"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:Ventanas"
+        mc:Ignorable="d"
+        Title="wConsulta" Height="450" Width="800">
+    <Grid>
+        <Label x:Name="labelNombre" Content="&lt;nombre&gt;" HorizontalAlignment="Left" Margin="10,10,0,0" VerticalAlignment="Top" Loaded="labelNombre_Loaded"/>
+        <Label x:Name="labelCalificacion" Content="&lt;calificacion&gt;" HorizontalAlignment="Left" Margin="10,41,0,0" VerticalAlignment="Top" Loaded="labelCalificacion_Loaded"/>
+        <Button x:Name="buttonAceptar" Content="Aceptar" HorizontalAlignment="Left" Margin="10,72,0,0" VerticalAlignment="Top" Width="75" RenderTransformOrigin="-0.262,-0.762" Click="buttonAceptar_Click"/>
+
+    </Grid>
+</Window>

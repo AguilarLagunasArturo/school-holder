@@ -1,0 +1,13 @@
+C:\Users\Arturo\Documents\Escuela\7mo\progra\U2\PRACTICAS\2.3\ProyectoPoblacion\ProyectoPoblacion\bin\Debug\netcoreapp3.1\ProyectoPoblacion.exe
+C:\Users\Arturo\Documents\Escuela\7mo\progra\U2\PRACTICAS\2.3\ProyectoPoblacion\ProyectoPoblacion\bin\Debug\netcoreapp3.1\ProyectoPoblacion.deps.json
+C:\Users\Arturo\Documents\Escuela\7mo\progra\U2\PRACTICAS\2.3\ProyectoPoblacion\ProyectoPoblacion\bin\Debug\netcoreapp3.1\ProyectoPoblacion.runtimeconfig.json
+C:\Users\Arturo\Documents\Escuela\7mo\progra\U2\PRACTICAS\2.3\ProyectoPoblacion\ProyectoPoblacion\bin\Debug\netcoreapp3.1\ProyectoPoblacion.runtimeconfig.dev.json
+C:\Users\Arturo\Documents\Escuela\7mo\progra\U2\PRACTICAS\2.3\ProyectoPoblacion\ProyectoPoblacion\bin\Debug\netcoreapp3.1\ProyectoPoblacion.dll
+C:\Users\Arturo\Documents\Escuela\7mo\progra\U2\PRACTICAS\2.3\ProyectoPoblacion\ProyectoPoblacion\bin\Debug\netcoreapp3.1\ProyectoPoblacion.pdb
+C:\Users\Arturo\Documents\Escuela\7mo\progra\U2\PRACTICAS\2.3\ProyectoPoblacion\ProyectoPoblacion\obj\Debug\netcoreapp3.1\ProyectoPoblacion.csprojAssemblyReference.cache
+C:\Users\Arturo\Documents\Escuela\7mo\progra\U2\PRACTICAS\2.3\ProyectoPoblacion\ProyectoPoblacion\obj\Debug\netcoreapp3.1\ProyectoPoblacion.AssemblyInfoInputs.cache
+C:\Users\Arturo\Documents\Escuela\7mo\progra\U2\PRACTICAS\2.3\ProyectoPoblacion\ProyectoPoblacion\obj\Debug\netcoreapp3.1\ProyectoPoblacion.AssemblyInfo.cs
+C:\Users\Arturo\Documents\Escuela\7mo\progra\U2\PRACTICAS\2.3\ProyectoPoblacion\ProyectoPoblacion\obj\Debug\netcoreapp3.1\ProyectoPoblacion.csproj.CoreCompileInputs.cache
+C:\Users\Arturo\Documents\Escuela\7mo\progra\U2\PRACTICAS\2.3\ProyectoPoblacion\ProyectoPoblacion\obj\Debug\netcoreapp3.1\ProyectoPoblacion.dll
+C:\Users\Arturo\Documents\Escuela\7mo\progra\U2\PRACTICAS\2.3\ProyectoPoblacion\ProyectoPoblacion\obj\Debug\netcoreapp3.1\ProyectoPoblacion.pdb
+C:\Users\Arturo\Documents\Escuela\7mo\progra\U2\PRACTICAS\2.3\ProyectoPoblacion\ProyectoPoblacion\obj\Debug\netcoreapp3.1\ProyectoPoblacion.genruntimeconfig.cache

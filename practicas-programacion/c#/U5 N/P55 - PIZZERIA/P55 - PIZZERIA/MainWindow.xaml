@@ -1,0 +1,46 @@
+﻿<Window x:Class="P55___PIZZERIA.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:P55___PIZZERIA"
+        mc:Ignorable="d"
+        Title="Pizzeria Antoninos" Height="435.805" Width="570.032" Icon="imagenes/logotipo_itver.png">
+    <Grid>
+        <Button x:Name="buttonAdministrar" Content="Administrar pedidos" HorizontalAlignment="Left" Margin="35,341,0,0" VerticalAlignment="Top" Width="226" FontSize="16" Click="buttonAdministrar_Click"/>
+        <Button x:Name="buttonAgregar" Content="Agregar pedido" HorizontalAlignment="Left" Margin="289,341,0,0" VerticalAlignment="Top" Width="226" FontSize="16" Click="buttonAgregar_Click"/>
+        <Label Content="Tamaño" HorizontalAlignment="Left" Margin="36,63,0,0" VerticalAlignment="Top" FontSize="16"/>
+        <ComboBox x:Name="comboSize" HorizontalAlignment="Left" Margin="119,67,0,0" VerticalAlignment="Top" Width="143" FontSize="16"/>
+        <GroupBox Header="Ingredientes extra" HorizontalAlignment="Left" Height="153" Margin="289,159,0,0" VerticalAlignment="Top" Width="226" FontSize="16">
+            <StackPanel HorizontalAlignment="Left" Height="127" Margin="10,0,0,0" VerticalAlignment="Top" Width="193">
+                <CheckBox x:Name="check1" Content="Queso"/>
+                <CheckBox x:Name="check2" Content="Peperoni"/>
+                <CheckBox x:Name="check3" Content="Pimiento verde"/>
+                <CheckBox x:Name="check4" Content="Salchicha italiana"/>
+                <CheckBox x:Name="check5" Content="Chorizo"/>
+                <CheckBox x:Name="check6" Content="Cebolla"/>
+            </StackPanel>
+        </GroupBox>
+        <GroupBox Header="Ingrediente principal" HorizontalAlignment="Left" Height="153" Margin="35,159,0,0" VerticalAlignment="Top" Width="226" FontSize="16">
+            <StackPanel HorizontalAlignment="Left" Height="128" Margin="10,0,0,0" VerticalAlignment="Top" Width="193">
+                <RadioButton x:Name="rbIngrediente1" Content="Queso"/>
+                <RadioButton x:Name="rbIngrediente2" Content="Peperoni" IsChecked="True"/>
+                <RadioButton x:Name="rbIngrediente3" Content="Pimiento verde"/>
+                <RadioButton x:Name="rbIngrediente4" Content="Salchicha italana"/>
+                <RadioButton x:Name="rbIngrediente5" Content="Chorizo"/>
+                <RadioButton x:Name="rbIngrediente6" Content="Cebolla"/>
+            </StackPanel>
+        </GroupBox>
+        <GroupBox Header="Estado" HorizontalAlignment="Left" Height="62" Margin="289,67,0,0" VerticalAlignment="Top" Width="226" FontSize="16">
+            <StackPanel HorizontalAlignment="Left" Height="28" Margin="0,10,0,0" VerticalAlignment="Top" Width="206" Orientation="Horizontal">
+                <RadioButton x:Name="rbElaborando" Content="Elaborando" IsChecked="True"/>
+                <RadioButton x:Name="rbEntregado" Content="Entregado"/>
+            </StackPanel>
+        </GroupBox>
+        <Label Content="Cliente" HorizontalAlignment="Left" Margin="36,15,0,0" VerticalAlignment="Top" FontSize="16"/>
+        <TextBox x:Name="txtCliente" HorizontalAlignment="Left" Height="23" Margin="119,15,0,0" TextWrapping="Wrap" Text="" VerticalAlignment="Top" Width="143" FontSize="16"/>
+        <Label Content="Telefono" HorizontalAlignment="Left" Margin="289,15,0,0" VerticalAlignment="Top" FontSize="16"/>
+        <TextBox x:Name="txtTelefono" HorizontalAlignment="Left" Height="23" Margin="364,15,0,0" TextWrapping="Wrap" Text="" VerticalAlignment="Top" Width="151" FontSize="16"/>
+
+    </Grid>
+</Window>

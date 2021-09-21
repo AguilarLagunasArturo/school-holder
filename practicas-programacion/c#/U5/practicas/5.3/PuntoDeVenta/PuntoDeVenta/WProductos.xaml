@@ -1,0 +1,39 @@
+﻿<Window x:Class="PuntoDeVenta.WProductos"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:PuntoDeVenta"
+        mc:Ignorable="d"
+        Title="Comprar Productos" Height="575.995" Width="601.799" Icon="src/itver.png">
+    <Grid>
+        <Image x:Name="imgGenero" HorizontalAlignment="Left" Height="100" Margin="13,70,0,0" VerticalAlignment="Top" Width="100" Source="src/hombre.png"/>
+        <StackPanel HorizontalAlignment="Left" Height="28" Margin="10,271,0,0" VerticalAlignment="Top" Width="566">
+            <ComboBox x:Name="comboProductos" SelectionChanged="comboProductos_SelectionChanged"/>
+        </StackPanel>
+        <Button x:Name="buttonAgregar" Content="Agregar al carrito" HorizontalAlignment="Left" Margin="10,304,0,0" VerticalAlignment="Top" Width="566" RenderTransformOrigin="1.193,1.064" Click="buttonAgregar_Click"/>
+        <ScrollViewer x:Name="scrollProductos" HorizontalAlignment="Left" Height="146" Margin="10,354,0,0" VerticalAlignment="Top" Width="566" FontFamily="Monospac821 BT"/>
+        <Button x:Name="buttonFinalizar" Content="Finalizar compra" HorizontalAlignment="Left" Margin="10,509,0,0" VerticalAlignment="Top" Width="566" RenderTransformOrigin="0.095,0.412" Click="buttonFinalizar_Click"/>
+        <Label x:Name="labelCliente" Content="&lt;cliente&gt;" HorizontalAlignment="Left" Margin="214,82,0,0" VerticalAlignment="Top"/>
+        <Label Content="Presupuesto:" HorizontalAlignment="Left" Margin="134,113,0,0" VerticalAlignment="Top"/>
+        <Label Content="Cliente:" HorizontalAlignment="Left" Margin="134,82,0,0" VerticalAlignment="Top" Width="75"/>
+        <Label x:Name="labelPresupuesto" Content="&lt;presupuesto&gt;" HorizontalAlignment="Left" Margin="214,113,0,0" VerticalAlignment="Top"/>
+        <Button x:Name="buttonEliminar" Content="Eliminar del carrito" HorizontalAlignment="Left" Margin="10,329,0,0" VerticalAlignment="Top" Width="566" RenderTransformOrigin="0.173,0.821" Click="buttonEliminar_Click"/>
+        <StackPanel HorizontalAlignment="Left" Height="26" Margin="415,240,0,0" VerticalAlignment="Top" Width="161" Orientation="Horizontal">
+            <Label Content="Cantidad" HorizontalAlignment="Left" VerticalAlignment="Top" Width="75"/>
+            <Button x:Name="buttonDecremento" Content=" &lt; " Height="26" VerticalAlignment="Top" Click="buttonDecremento_Click" />
+            <Label x:Name="labelCantidad" Content="1" Width="30" HorizontalContentAlignment="Center"/>
+            <Button x:Name="buttonIngremento" Content=" &gt; " Click="buttonIngremento_Click"/>
+        </StackPanel>
+        <Image x:Name="imgProducto" HorizontalAlignment="Left" Height="100" Margin="444,70,0,0" VerticalAlignment="Top" Width="100" Source="src/carrito.png"/>
+        <Label Content="Selecciona tu producto" HorizontalAlignment="Left" Margin="10,240,0,0" VerticalAlignment="Top"/>
+        <Label Content="Precio (x1)" HorizontalAlignment="Left" Margin="415,175,0,0" VerticalAlignment="Top" Width="75"/>
+        <Label x:Name="labelPrecio" Content="$ 0" HorizontalAlignment="Left" Margin="490,175,0,0" VerticalAlignment="Top" Width="75"/>
+        <Label Content="TEAM 07 SHOP" HorizontalAlignment="Left" Margin="13,10,0,0" VerticalAlignment="Top" Width="552" HorizontalContentAlignment="Center" FontSize="16" FontWeight="Bold"/>
+        <Label x:Name="labelPrecioCantidad" Content="Precio (x1)" HorizontalAlignment="Left" Margin="415,201,0,0" VerticalAlignment="Top" Width="75"/>
+        <Label x:Name="labelPrecioCantidadNumerica" Content="$ 0" HorizontalAlignment="Left" Margin="490,201,0,0" VerticalAlignment="Top" Width="75"/>
+        <Label Content="Cambio:" HorizontalAlignment="Left" Margin="134,144,0,0" VerticalAlignment="Top"/>
+        <Label x:Name="labelCambio" Content="&lt;cambio&gt;" HorizontalAlignment="Left" Margin="214,144,0,0" VerticalAlignment="Top"/>
+
+    </Grid>
+</Window>

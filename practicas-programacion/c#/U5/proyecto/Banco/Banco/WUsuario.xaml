@@ -1,0 +1,71 @@
+﻿<Window x:Class="Banco.WUsuario"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:Banco"
+        mc:Ignorable="d"
+        Title="USUARIO" Height="507.419" Width="446.699" Icon="src/itver.png">
+    <Grid>
+        <TabControl HorizontalAlignment="Left" Height="293" Margin="10,136,0,0" VerticalAlignment="Top" Width="407">
+            <TabItem x:Name="Retiro" Header="Retiro">
+                <Grid Background="#FFE5E5E5">
+                    <Grid.ColumnDefinitions>
+                        <ColumnDefinition/>
+                    </Grid.ColumnDefinitions>
+                    <Label HorizontalAlignment="Left" Height="30" Margin="46,24,0,0" Content="Monto:" VerticalAlignment="Top" Width="109" RenderTransformOrigin="0.503,0.476"/>
+                    <TextBox x:Name="txtRetiro" HorizontalAlignment="Left" Height="28" Margin="160,24,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="200"/>
+                    <Button x:Name="btnRetirar" Content="Retirar" HorizontalAlignment="Left" Height="25" Margin="35,225,0,0" VerticalAlignment="Top" Width="325" Click="btnRetirar_Click"/>
+                </Grid>
+            </TabItem>
+            <TabItem x:Name="Deposito" Header="Deposito">
+                <Grid Background="#FFE5E5E5">
+                    <Grid.ColumnDefinitions>
+                        <ColumnDefinition/>
+                    </Grid.ColumnDefinitions>
+                    <Label HorizontalAlignment="Left" Height="30" Margin="35,18,0,0" Content="No. Cuenta:" VerticalAlignment="Top" Width="91" RenderTransformOrigin="0.503,0.476"/>
+                    <TextBox x:Name="txtNoCuenta" HorizontalAlignment="Left" Height="28" Margin="160,17,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="200"/>
+                    <Label HorizontalAlignment="Left" Height="30" Margin="35,63,0,0" Content="Monto:" VerticalAlignment="Top" RenderTransformOrigin="0.503,0.476"/>
+                    <TextBox x:Name="txtDeposito" HorizontalAlignment="Left" Height="28" Margin="160,62,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="200"/>
+                    <Button x:Name="btnDepositar" Content="Depositar" HorizontalAlignment="Left" Height="25" Margin="35,225,0,0" VerticalAlignment="Top" Width="325" Click="btnDepositar_Click"/>
+                </Grid>
+            </TabItem>
+            <TabItem Header="Pago de servicios" HorizontalAlignment="Left" Height="20" VerticalAlignment="Top" Width="110">
+                <Grid Background="#FFE5E5E5">
+                    <Grid.ColumnDefinitions>
+                        <ColumnDefinition/>
+                    </Grid.ColumnDefinitions>
+                    <Label Content="Nombre del servicio: " HorizontalAlignment="Left" VerticalAlignment="Top" Margin="19,30,0,0" Height="28" Width="118"/>
+                    <TextBox x:Name="txtServicio" HorizontalAlignment="Left" Height="23" TextWrapping="Wrap" VerticalAlignment="Top" Width="190" Margin="172,30,0,0"/>
+                    <TextBox x:Name="txtMontoServicio" HorizontalAlignment="Left" Height="23" TextWrapping="Wrap" VerticalAlignment="Top" Width="190" Margin="172,78,0,0"/>
+                    <Label Content="Cantidad a pagar:" HorizontalAlignment="Left" VerticalAlignment="Top" Margin="19,74,0,0" Height="28" Width="118"/>
+                    <Button x:Name="btnPagoServicio" Content="Pagar servicio" HorizontalAlignment="Left" VerticalAlignment="Top" Width="325" Margin="35,225,0,0" Height="25" Click="btnPagoServicio_Click"/>
+                </Grid>
+            </TabItem>
+            <TabItem x:Name="Consulta" Header="Consulta" HorizontalAlignment="Left" Height="20" VerticalAlignment="Top" Width="60" Margin="-2,0,0,0">
+                <Grid Background="#FFE5E5E5" HorizontalAlignment="Left" Width="401">
+                    <Grid.ColumnDefinitions>
+                        <ColumnDefinition/>
+                    </Grid.ColumnDefinitions>
+                    <Label HorizontalAlignment="Left" Height="25" Margin="35,17,0,0" Content="Consulta:" VerticalAlignment="Top" Width="65" RenderTransformOrigin="0.538,-0.16"/>
+                    <DataGrid x:Name="dGConsulta" HorizontalAlignment="Left" Height="205" Margin="35,50,0,0" VerticalAlignment="Top" Width="331" ItemsSource="{Binding}" AutoGenerateColumns="False">
+                        <DataGrid.Columns>
+                            <DataGridTextColumn Binding="{Binding Fecha}" Header="Fecha"/>
+                            <DataGridTextColumn Binding="{Binding Descripcion}" Header="Descripcion"/>
+                            <DataGridTextColumn Binding="{Binding Cantidad}" Header="Monto"/>
+                        </DataGrid.Columns>
+                    </DataGrid>
+                    <ComboBox x:Name="comboConsulta" HorizontalAlignment="Left" Margin="105,20,0,0" VerticalAlignment="Top" Width="261" SelectionChanged="comboConsulta_SelectionChanged"/>
+                </Grid>
+            </TabItem>
+        </TabControl>
+        <Label x:Name="labelNombre" Content="Label" HorizontalAlignment="Left" Height="35" Margin="172,19,0,0" VerticalAlignment="Top" Width="200"/>
+        <Label x:Name="labelNoCuenta" Content="Label" HorizontalAlignment="Left" Height="35" Margin="172,56,0,0" VerticalAlignment="Top" Width="200"/>
+        <Label x:Name="labelSaldo" Content="Label" HorizontalAlignment="Left" Height="35" Margin="172,93,0,0" VerticalAlignment="Top" Width="200"/>
+        <Label HorizontalAlignment="Left" Height="32" Margin="47,19,0,0" Content="Nombre:" VerticalAlignment="Top" Width="85"/>
+        <Label HorizontalAlignment="Left" Height="32" Margin="47,56,0,0" VerticalAlignment="Top" Width="85" Content="No. Cuenta:"/>
+        <Label x:Name="labelSaldoText" HorizontalAlignment="Left" Height="32" Margin="47,93,0,0" VerticalAlignment="Top" Content="Saldo:"/>
+        <Button x:Name="btnFinalizar" Content="Finalizar" HorizontalAlignment="Left" Margin="342,434,0,0" VerticalAlignment="Top" Width="75" Height="25" Click="btnFinalizar_Click"/>
+
+    </Grid>
+</Window>

@@ -1,0 +1,22 @@
+﻿<Window x:Class="PuntoDeVenta.WHistorialCliente"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:PuntoDeVenta"
+        mc:Ignorable="d"
+        Title="Historial de Clientes" Height="388.96" Width="622.554" Icon="src/itver.png">
+    <Grid>
+        <Image x:Name="imgGenero" HorizontalAlignment="Left" Height="100" Margin="147,67,0,0" VerticalAlignment="Top" Width="100" Source="src/hombre.png"/>
+        <Label x:Name="labelCliente" Content="&lt;cliente&gt;" HorizontalAlignment="Left" Margin="348,79,0,0" VerticalAlignment="Top"/>
+        <Label Content="Presupuesto:" HorizontalAlignment="Left" Margin="268,110,0,0" VerticalAlignment="Top"/>
+        <Label Content="Cliente:" HorizontalAlignment="Left" Margin="268,79,0,0" VerticalAlignment="Top" Width="75"/>
+        <Label x:Name="labelPresupuesto" Content="&lt;presupuesto&gt;" HorizontalAlignment="Left" Margin="348,110,0,0" VerticalAlignment="Top"/>
+        <Label Content="Cambio:" HorizontalAlignment="Left" Margin="268,141,0,0" VerticalAlignment="Top"/>
+        <Label x:Name="labelCambio" Content="&lt;cambio&gt;" HorizontalAlignment="Left" Margin="348,141,0,0" VerticalAlignment="Top"/>
+        <ScrollViewer x:Name="scrollProductos" HorizontalAlignment="Left" Height="127" Margin="19,184,0,0" VerticalAlignment="Top" Width="566" FontFamily="Monospac821 BT"/>
+        <Label Content="TEAM 07 SHOP" HorizontalAlignment="Left" Margin="13,10,0,0" VerticalAlignment="Top" Width="572" HorizontalContentAlignment="Center" FontSize="16" FontWeight="Bold"/>
+        <Button x:Name="buttonAceptar" Content="Aceptar" HorizontalAlignment="Left" Margin="19,316,0,0" VerticalAlignment="Top" Width="566" Click="buttonAceptar_Click"/>
+
+    </Grid>
+</Window>

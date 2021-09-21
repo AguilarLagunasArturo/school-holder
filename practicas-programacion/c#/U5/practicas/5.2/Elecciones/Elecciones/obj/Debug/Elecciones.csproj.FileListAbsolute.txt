@@ -1,0 +1,15 @@
+C:\Users\Arturo\Documents\Escuela\7mo\progra\U5\practicas\5.2\Elecciones\Elecciones\bin\Debug\Elecciones.exe.config
+C:\Users\Arturo\Documents\Escuela\7mo\progra\U5\practicas\5.2\Elecciones\Elecciones\bin\Debug\Elecciones.exe
+C:\Users\Arturo\Documents\Escuela\7mo\progra\U5\practicas\5.2\Elecciones\Elecciones\bin\Debug\Elecciones.pdb
+C:\Users\Arturo\Documents\Escuela\7mo\progra\U5\practicas\5.2\Elecciones\Elecciones\obj\Debug\Elecciones.csprojAssemblyReference.cache
+C:\Users\Arturo\Documents\Escuela\7mo\progra\U5\practicas\5.2\Elecciones\Elecciones\obj\Debug\MainWindow.g.cs
+C:\Users\Arturo\Documents\Escuela\7mo\progra\U5\practicas\5.2\Elecciones\Elecciones\obj\Debug\App.g.cs
+C:\Users\Arturo\Documents\Escuela\7mo\progra\U5\practicas\5.2\Elecciones\Elecciones\obj\Debug\Elecciones_MarkupCompile.cache
+C:\Users\Arturo\Documents\Escuela\7mo\progra\U5\practicas\5.2\Elecciones\Elecciones\obj\Debug\Elecciones_MarkupCompile.lref
+C:\Users\Arturo\Documents\Escuela\7mo\progra\U5\practicas\5.2\Elecciones\Elecciones\obj\Debug\MainWindow.baml
+C:\Users\Arturo\Documents\Escuela\7mo\progra\U5\practicas\5.2\Elecciones\Elecciones\obj\Debug\Elecciones.g.resources
+C:\Users\Arturo\Documents\Escuela\7mo\progra\U5\practicas\5.2\Elecciones\Elecciones\obj\Debug\Elecciones.Properties.Resources.resources
+C:\Users\Arturo\Documents\Escuela\7mo\progra\U5\practicas\5.2\Elecciones\Elecciones\obj\Debug\Elecciones.csproj.GenerateResource.cache
+C:\Users\Arturo\Documents\Escuela\7mo\progra\U5\practicas\5.2\Elecciones\Elecciones\obj\Debug\Elecciones.csproj.CoreCompileInputs.cache
+C:\Users\Arturo\Documents\Escuela\7mo\progra\U5\practicas\5.2\Elecciones\Elecciones\obj\Debug\Elecciones.exe
+C:\Users\Arturo\Documents\Escuela\7mo\progra\U5\practicas\5.2\Elecciones\Elecciones\obj\Debug\Elecciones.pdb

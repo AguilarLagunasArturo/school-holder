@@ -1,0 +1,17 @@
+C:\Users\Arturo\Documents\Escuela\7mo\progra\U6\practicas\6.2\ProyectoAlumnosSQL\ProyectoAlumnosSQL\bin\Debug\ProyectoAlumnosSQL.exe.config
+C:\Users\Arturo\Documents\Escuela\7mo\progra\U6\practicas\6.2\ProyectoAlumnosSQL\ProyectoAlumnosSQL\bin\Debug\ProyectoAlumnosSQL.exe
+C:\Users\Arturo\Documents\Escuela\7mo\progra\U6\practicas\6.2\ProyectoAlumnosSQL\ProyectoAlumnosSQL\bin\Debug\ProyectoAlumnosSQL.pdb
+C:\Users\Arturo\Documents\Escuela\7mo\progra\U6\practicas\6.2\ProyectoAlumnosSQL\ProyectoAlumnosSQL\obj\Debug\ProyectoAlumnosSQL.csprojAssemblyReference.cache
+C:\Users\Arturo\Documents\Escuela\7mo\progra\U6\practicas\6.2\ProyectoAlumnosSQL\ProyectoAlumnosSQL\obj\Debug\MainWindow.g.cs
+C:\Users\Arturo\Documents\Escuela\7mo\progra\U6\practicas\6.2\ProyectoAlumnosSQL\ProyectoAlumnosSQL\obj\Debug\App.g.cs
+C:\Users\Arturo\Documents\Escuela\7mo\progra\U6\practicas\6.2\ProyectoAlumnosSQL\ProyectoAlumnosSQL\obj\Debug\ProyectoAlumnosSQL_MarkupCompile.cache
+C:\Users\Arturo\Documents\Escuela\7mo\progra\U6\practicas\6.2\ProyectoAlumnosSQL\ProyectoAlumnosSQL\obj\Debug\ProyectoAlumnosSQL_MarkupCompile.lref
+C:\Users\Arturo\Documents\Escuela\7mo\progra\U6\practicas\6.2\ProyectoAlumnosSQL\ProyectoAlumnosSQL\obj\Debug\MainWindow.baml
+C:\Users\Arturo\Documents\Escuela\7mo\progra\U6\practicas\6.2\ProyectoAlumnosSQL\ProyectoAlumnosSQL\obj\Debug\ProyectoAlumnosSQL.g.resources
+C:\Users\Arturo\Documents\Escuela\7mo\progra\U6\practicas\6.2\ProyectoAlumnosSQL\ProyectoAlumnosSQL\obj\Debug\ProyectoAlumnosSQL.Properties.Resources.resources
+C:\Users\Arturo\Documents\Escuela\7mo\progra\U6\practicas\6.2\ProyectoAlumnosSQL\ProyectoAlumnosSQL\obj\Debug\ProyectoAlumnosSQL.csproj.GenerateResource.cache
+C:\Users\Arturo\Documents\Escuela\7mo\progra\U6\practicas\6.2\ProyectoAlumnosSQL\ProyectoAlumnosSQL\obj\Debug\ProyectoAlumnosSQL.csproj.CoreCompileInputs.cache
+C:\Users\Arturo\Documents\Escuela\7mo\progra\U6\practicas\6.2\ProyectoAlumnosSQL\ProyectoAlumnosSQL\obj\Debug\ProyectoAlumnosSQL.exe
+C:\Users\Arturo\Documents\Escuela\7mo\progra\U6\practicas\6.2\ProyectoAlumnosSQL\ProyectoAlumnosSQL\obj\Debug\ProyectoAlumnosSQL.pdb
+C:\Users\Arturo\Documents\Escuela\7mo\progra\U6\practicas\6.2\ProyectoAlumnosSQL\ProyectoAlumnosSQL\obj\Debug\WConsulta.g.cs
+C:\Users\Arturo\Documents\Escuela\7mo\progra\U6\practicas\6.2\ProyectoAlumnosSQL\ProyectoAlumnosSQL\obj\Debug\WConsulta.baml

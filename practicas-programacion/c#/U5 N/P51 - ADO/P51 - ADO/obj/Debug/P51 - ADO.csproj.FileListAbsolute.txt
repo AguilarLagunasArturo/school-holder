@@ -1,0 +1,15 @@
+C:\Users\Arturo\Desktop\U5 PROBLEMAS\P51 - ADO\P51 - ADO\obj\Debug\P51 - ADO.csprojAssemblyReference.cache
+C:\Users\Arturo\Desktop\U5 PROBLEMAS\P51 - ADO\P51 - ADO\obj\Debug\MainWindow.g.cs
+C:\Users\Arturo\Desktop\U5 PROBLEMAS\P51 - ADO\P51 - ADO\obj\Debug\App.g.cs
+C:\Users\Arturo\Desktop\U5 PROBLEMAS\P51 - ADO\P51 - ADO\obj\Debug\P51 - ADO_MarkupCompile.cache
+C:\Users\Arturo\Desktop\U5 PROBLEMAS\P51 - ADO\P51 - ADO\obj\Debug\P51 - ADO_MarkupCompile.lref
+C:\Users\Arturo\Desktop\U5 PROBLEMAS\P51 - ADO\P51 - ADO\bin\Debug\P51 - ADO.exe.config
+C:\Users\Arturo\Desktop\U5 PROBLEMAS\P51 - ADO\P51 - ADO\bin\Debug\P51 - ADO.exe
+C:\Users\Arturo\Desktop\U5 PROBLEMAS\P51 - ADO\P51 - ADO\bin\Debug\P51 - ADO.pdb
+C:\Users\Arturo\Desktop\U5 PROBLEMAS\P51 - ADO\P51 - ADO\obj\Debug\MainWindow.baml
+C:\Users\Arturo\Desktop\U5 PROBLEMAS\P51 - ADO\P51 - ADO\obj\Debug\P51 - ADO.g.resources
+C:\Users\Arturo\Desktop\U5 PROBLEMAS\P51 - ADO\P51 - ADO\obj\Debug\P51___ADO.Properties.Resources.resources
+C:\Users\Arturo\Desktop\U5 PROBLEMAS\P51 - ADO\P51 - ADO\obj\Debug\P51 - ADO.csproj.GenerateResource.cache
+C:\Users\Arturo\Desktop\U5 PROBLEMAS\P51 - ADO\P51 - ADO\obj\Debug\P51 - ADO.csproj.CoreCompileInputs.cache
+C:\Users\Arturo\Desktop\U5 PROBLEMAS\P51 - ADO\P51 - ADO\obj\Debug\P51 - ADO.exe
+C:\Users\Arturo\Desktop\U5 PROBLEMAS\P51 - ADO\P51 - ADO\obj\Debug\P51 - ADO.pdb

@@ -1,0 +1,13 @@
+C:\Users\Arturo\Documents\Escuela\7mo\progra\U4\practicas\4.3\ProyectoSuperficies\ProyectoSuperficies\bin\Debug\netcoreapp3.1\ProyectoSuperficies.exe
+C:\Users\Arturo\Documents\Escuela\7mo\progra\U4\practicas\4.3\ProyectoSuperficies\ProyectoSuperficies\bin\Debug\netcoreapp3.1\ProyectoSuperficies.deps.json
+C:\Users\Arturo\Documents\Escuela\7mo\progra\U4\practicas\4.3\ProyectoSuperficies\ProyectoSuperficies\bin\Debug\netcoreapp3.1\ProyectoSuperficies.runtimeconfig.json
+C:\Users\Arturo\Documents\Escuela\7mo\progra\U4\practicas\4.3\ProyectoSuperficies\ProyectoSuperficies\bin\Debug\netcoreapp3.1\ProyectoSuperficies.runtimeconfig.dev.json
+C:\Users\Arturo\Documents\Escuela\7mo\progra\U4\practicas\4.3\ProyectoSuperficies\ProyectoSuperficies\bin\Debug\netcoreapp3.1\ProyectoSuperficies.dll
+C:\Users\Arturo\Documents\Escuela\7mo\progra\U4\practicas\4.3\ProyectoSuperficies\ProyectoSuperficies\bin\Debug\netcoreapp3.1\ProyectoSuperficies.pdb
+C:\Users\Arturo\Documents\Escuela\7mo\progra\U4\practicas\4.3\ProyectoSuperficies\ProyectoSuperficies\obj\Debug\netcoreapp3.1\ProyectoSuperficies.csprojAssemblyReference.cache
+C:\Users\Arturo\Documents\Escuela\7mo\progra\U4\practicas\4.3\ProyectoSuperficies\ProyectoSuperficies\obj\Debug\netcoreapp3.1\ProyectoSuperficies.AssemblyInfoInputs.cache
+C:\Users\Arturo\Documents\Escuela\7mo\progra\U4\practicas\4.3\ProyectoSuperficies\ProyectoSuperficies\obj\Debug\netcoreapp3.1\ProyectoSuperficies.AssemblyInfo.cs
+C:\Users\Arturo\Documents\Escuela\7mo\progra\U4\practicas\4.3\ProyectoSuperficies\ProyectoSuperficies\obj\Debug\netcoreapp3.1\ProyectoSuperficies.csproj.CoreCompileInputs.cache
+C:\Users\Arturo\Documents\Escuela\7mo\progra\U4\practicas\4.3\ProyectoSuperficies\ProyectoSuperficies\obj\Debug\netcoreapp3.1\ProyectoSuperficies.dll
+C:\Users\Arturo\Documents\Escuela\7mo\progra\U4\practicas\4.3\ProyectoSuperficies\ProyectoSuperficies\obj\Debug\netcoreapp3.1\ProyectoSuperficies.pdb
+C:\Users\Arturo\Documents\Escuela\7mo\progra\U4\practicas\4.3\ProyectoSuperficies\ProyectoSuperficies\obj\Debug\netcoreapp3.1\ProyectoSuperficies.genruntimeconfig.cache

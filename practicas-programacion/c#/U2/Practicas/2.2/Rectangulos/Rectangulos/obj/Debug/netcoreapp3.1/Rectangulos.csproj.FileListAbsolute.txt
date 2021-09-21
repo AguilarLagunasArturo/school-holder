@@ -1,0 +1,13 @@
+C:\Users\Arturo\source\repos\Rectangulos\Rectangulos\bin\Debug\netcoreapp3.1\Rectangulos.exe
+C:\Users\Arturo\source\repos\Rectangulos\Rectangulos\bin\Debug\netcoreapp3.1\Rectangulos.deps.json
+C:\Users\Arturo\source\repos\Rectangulos\Rectangulos\bin\Debug\netcoreapp3.1\Rectangulos.runtimeconfig.json
+C:\Users\Arturo\source\repos\Rectangulos\Rectangulos\bin\Debug\netcoreapp3.1\Rectangulos.runtimeconfig.dev.json
+C:\Users\Arturo\source\repos\Rectangulos\Rectangulos\bin\Debug\netcoreapp3.1\Rectangulos.dll
+C:\Users\Arturo\source\repos\Rectangulos\Rectangulos\bin\Debug\netcoreapp3.1\Rectangulos.pdb
+C:\Users\Arturo\source\repos\Rectangulos\Rectangulos\obj\Debug\netcoreapp3.1\Rectangulos.csprojAssemblyReference.cache
+C:\Users\Arturo\source\repos\Rectangulos\Rectangulos\obj\Debug\netcoreapp3.1\Rectangulos.AssemblyInfoInputs.cache
+C:\Users\Arturo\source\repos\Rectangulos\Rectangulos\obj\Debug\netcoreapp3.1\Rectangulos.AssemblyInfo.cs
+C:\Users\Arturo\source\repos\Rectangulos\Rectangulos\obj\Debug\netcoreapp3.1\Rectangulos.csproj.CoreCompileInputs.cache
+C:\Users\Arturo\source\repos\Rectangulos\Rectangulos\obj\Debug\netcoreapp3.1\Rectangulos.dll
+C:\Users\Arturo\source\repos\Rectangulos\Rectangulos\obj\Debug\netcoreapp3.1\Rectangulos.pdb
+C:\Users\Arturo\source\repos\Rectangulos\Rectangulos\obj\Debug\netcoreapp3.1\Rectangulos.genruntimeconfig.cache
